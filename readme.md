@@ -8,6 +8,16 @@ A quick little workflow to open verses in Alfred.
 2. Install the workflow by double-clicking the `.alfredworkflow` file
 3. You can add the workflow to a category, then click "Import" to finish importing. You'll now see the workflow listed in the left sidebar of your Workflows preferences pane.
 
+## Usage
+
+Type any of the shortcuts available below followed by a passage reference
+
+**Examples:**
+- `nasb Matt 28:18`
+- `niv Rev 3:20`
+- `esv Jn 3:16`
+- `nlt rom 8`
+
 ## Translations / Shortcuts available
 
 - **nasb** - New American Standard Bible (1995)
