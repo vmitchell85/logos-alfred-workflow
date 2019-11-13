@@ -4,7 +4,7 @@ A quick little workflow to open verses in Alfred.
 
 ## Installation
 
-1. [Download the latest version](https://github.com/vmitchell85/logos-alfred-workflow/releases/download/0.3/Logos.alfredworkflow)
+1. [Download the latest version](https://github.com/vmitchell85/logos-alfred-workflow/releases/download/0.4/Logos.alfredworkflow)
 2. Install the workflow by double-clicking the `.alfredworkflow` file
 3. The Import window will appear and allow you to add the workflow to a category and set your PreferredBible (see below)
 4. Click "Import" to finish importing. You'll now see the workflow listed in the left sidebar of your Workflows preferences pane.
