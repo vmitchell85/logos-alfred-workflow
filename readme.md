@@ -4,7 +4,7 @@ A quick little workflow to open verses in Alfred.
 
 ## Installation
 
-1. [Download the latest version](https://github.com/vmitchell85/logos-alfred-workflow/releases/download/0.5/Logos.alfredworkflow)
+1. [Download the latest version](https://github.com/vmitchell85/logos-alfred-workflow/releases/download/0.6/Logos.alfredworkflow)
 2. Install the workflow by double-clicking the `.alfredworkflow` file
 3. The Import window will appear and allow you to add the workflow to a category and set your PreferredBible (see below)
 4. Click "Import" to finish importing. You'll now see the workflow listed in the left sidebar of your Workflows preferences pane.
@@ -38,9 +38,10 @@ Type any of the translation or command keywords available below followed by a "s
 - `nlt rom 8` : Opens the NLT Bible to Romans 8
 
 ## Commands Available
-- `l {search term}` - Searches your entire Logos library for the search term specified
-- `lb {search term}` - Searches your Logos Bibles for the search term specified
-- `lm {search term}` - Searches your Logos Media for the search term specified
+- `lopen {search term}` - Lists resources that match your term, opens Logos to the selected item
+- `l {search term}` - Opens Logos to a search using your term
+- `lb {search term}` - Opens Logos Bibles to a search using your term
+- `lm {search term}` - Opens Logos Media to a search using your term
 - `bible {passage}` - Opens your Preferred Bible (see above) to the specified passage
 
 ## Translations Available
