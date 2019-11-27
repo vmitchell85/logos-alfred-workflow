@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/database": "^6.6",
+        "joetannenbaum/alfred-workflow": "^0.1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Logos\\": "logos"
+        }
+    }
+}
