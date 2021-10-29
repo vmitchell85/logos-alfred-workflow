@@ -1,0 +1,23 @@
+{
+  "name": "alfred-logos-workflow",
+  "version": "1.0.0",
+  "description": "A quick little workflow to open verses in Alfred.",
+  "main": "search.js",
+  "dependencies": {
+    "alfy": "^0.12.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmitchell85/logos-alfred-workflow.git"
+  },
+  "author": "Vince Mitchell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmitchell85/logos-alfred-workflow/issues"
+  },
+  "homepage": "https://github.com/vmitchell85/logos-alfred-workflow#readme",
+  "type": "module"
+}
