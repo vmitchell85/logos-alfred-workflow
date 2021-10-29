@@ -737,8 +737,10 @@ Available Options are:
 		<key>PreferredBible</key>
 		<string>NLT</string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>0.6</string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://vincemitchell.me</string>
 </dict>
