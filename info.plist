@@ -4,139 +4,11 @@
 <dict>
 	<key>bundleid</key>
 	<string>com.vmitchell85.logos</string>
+	<key>category</key>
+	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
 		<key>012077FA-7F94-44FB-AFF0-468725CFD99A</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>7ED5B7E3-9DB9-4DC4-8F24-D11F7EE5276F</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>03B6902D-C416-46A5-A5CD-7390CF4C4A68</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>A0227B8F-3769-4E97-BC49-8F3CA94E5BEA</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>2653F0FA-15D7-4968-BFF9-F49342D58035</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>52EF8D46-1DFE-49F0-A5BB-3310D97E37D3</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>2FABBBE3-DB29-41C0-96FE-AD9803D728F5</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>A4A14392-A685-443E-97DD-16C6FE1A3ECF</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>34A9FDEF-B185-4DED-AD16-21396F2FDE86</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>8256FE3A-0C8E-401E-AC7E-0EC9E9894F9B</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>34EC3912-B1BF-4363-896D-6410831C94D2</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>9A562FEC-BC29-4E37-B2BE-AFCF33C0C0B0</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>3753331B-4841-43C3-B984-701EAE5F05A8</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>F8886A21-C8BC-4EBE-B67F-696DC090AB18</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>3B249F66-827C-481B-8BE2-1874876D0A4C</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>235B00CD-4BF2-48E2-9DD9-F7F6A80C564D</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>52EF8D46-1DFE-49F0-A5BB-3310D97E37D3</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>E4D740CB-1DB1-4123-A863-1952A43CCFD8</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>75CCB7BF-F40C-4E4C-89C4-81CFDE0B0258</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>8DDAF34F-9B44-42A8-A115-3EF0ECC37054</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>7ED5B7E3-9DB9-4DC4-8F24-D11F7EE5276F</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -149,33 +21,7 @@
 				<false/>
 			</dict>
 		</array>
-		<key>8256FE3A-0C8E-401E-AC7E-0EC9E9894F9B</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>4DB71018-7264-4587-B73C-144092508637</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>9A562FEC-BC29-4E37-B2BE-AFCF33C0C0B0</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>6A81A9D7-EE66-42C8-91E2-EFBA0BBFE5E3</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>A0227B8F-3769-4E97-BC49-8F3CA94E5BEA</key>
+		<key>03B6902D-C416-46A5-A5CD-7390CF4C4A68</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -188,11 +34,63 @@
 				<false/>
 			</dict>
 		</array>
+		<key>2653F0FA-15D7-4968-BFF9-F49342D58035</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E4D740CB-1DB1-4123-A863-1952A43CCFD8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>34A9FDEF-B185-4DED-AD16-21396F2FDE86</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4DB71018-7264-4587-B73C-144092508637</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>34EC3912-B1BF-4363-896D-6410831C94D2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6A81A9D7-EE66-42C8-91E2-EFBA0BBFE5E3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3753331B-4841-43C3-B984-701EAE5F05A8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF41B0DB-C239-413C-8768-788358718962</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>B53392D1-09EF-47D0-9E23-568940E075DD</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>3B249F66-827C-481B-8BE2-1874876D0A4C</string>
+				<string>235B00CD-4BF2-48E2-9DD9-F7F6A80C564D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -218,7 +116,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>75CCB7BF-F40C-4E4C-89C4-81CFDE0B0258</string>
+				<string>8DDAF34F-9B44-42A8-A115-3EF0ECC37054</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -231,20 +129,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>2FABBBE3-DB29-41C0-96FE-AD9803D728F5</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>F8886A21-C8BC-4EBE-B67F-696DC090AB18</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>EF41B0DB-C239-413C-8768-788358718962</string>
+				<string>A4A14392-A685-443E-97DD-16C6FE1A3ECF</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -264,33 +149,6 @@
 	<string>Logos</string>
 	<key>objects</key>
 	<array>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-echo str_replace(' ', '.', $query);</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>7ED5B7E3-9DB9-4DC4-8F24-D11F7EE5276F</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -374,39 +232,6 @@ echo str_replace(' ', '.', $query);</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-$text = str_replace(' ', '.', $query);
-
-$text = str_replace('1.', '1', $text);
-$text = str_replace('2.', '2', $text);
-$text = str_replace('3.', '3', $text);
-
-echo $text;</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>75CCB7BF-F40C-4E4C-89C4-81CFDE0B0258</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
@@ -424,66 +249,6 @@ echo $text;</string>
 			<string>34EC3912-B1BF-4363-896D-6410831C94D2</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-$text = str_replace(' ', '.', $query);
-
-$text = str_replace('1.', '1', $text);
-$text = str_replace('2.', '2', $text);
-$text = str_replace('3.', '3', $text);
-
-echo $text;</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>A0227B8F-3769-4E97-BC49-8F3CA94E5BEA</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-echo str_replace(' ', '.', $query);</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>9A562FEC-BC29-4E37-B2BE-AFCF33C0C0B0</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -543,66 +308,6 @@ echo str_replace(' ', '.', $query);</string>
 			<string>6A81A9D7-EE66-42C8-91E2-EFBA0BBFE5E3</string>
 			<key>version</key>
 			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-echo str_replace(' ', '.', $query);</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>F8886A21-C8BC-4EBE-B67F-696DC090AB18</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-$text = str_replace(' ', '.', $query);
-
-$text = str_replace('1.', '1', $text);
-$text = str_replace('2.', '2', $text);
-$text = str_replace('3.', '3', $text);
-
-echo $text;</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>3B249F66-827C-481B-8BE2-1874876D0A4C</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -687,72 +392,6 @@ echo $text;</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-$text = str_replace(' ', '.', $query);
-
-$text = str_replace('1.', '1', $text);
-$text = str_replace('2.', '2', $text);
-$text = str_replace('3.', '3', $text);
-
-echo $text;</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>8256FE3A-0C8E-401E-AC7E-0EC9E9894F9B</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-$text = str_replace(' ', '.', $query);
-
-$text = str_replace('1.', '1', $text);
-$text = str_replace('2.', '2', $text);
-$text = str_replace('3.', '3', $text);
-
-echo $text;</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>52EF8D46-1DFE-49F0-A5BB-3310D97E37D3</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -833,6 +472,27 @@ echo $text;</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>nkjv</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Open passage using NKJV</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>DE2D49AF-4B75-4698-8D8A-B1142E516AE9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>spaces</key>
@@ -846,6 +506,25 @@ echo $text;</string>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
 			<string>25E372A4-EA5C-47D9-98EE-C98FEB610C53</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>logosres:NKJV;ref=Bible.{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>A4A14392-A685-443E-97DD-16C6FE1A3ECF</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -877,13 +556,7 @@ echo $text;</string>
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>&lt;?php
-
-require "vendor/autoload.php";
-
-$catalog = new Logos\Catalog();
-
-$catalog-&gt;search($argv[1]);</string>
+				<string>./node_modules/.bin/run-node search.js "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -893,7 +566,7 @@ $catalog-&gt;search($argv[1]);</string>
 				<key>title</key>
 				<string></string>
 				<key>type</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -903,79 +576,6 @@ $catalog-&gt;search($argv[1]);</string>
 			<string>B588C94B-4203-4563-A519-B23761072D35</string>
 			<key>version</key>
 			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>nkjv</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Open passage using NKJV</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>DE2D49AF-4B75-4698-8D8A-B1142E516AE9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>logosres:NKJV;ref=Bible.{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>A4A14392-A685-443E-97DD-16C6FE1A3ECF</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>100</integer>
-				<key>script</key>
-				<string>&lt;?php
-
-$query = $argv[1];
-
-$text = str_replace(' ', '.', $query);
-
-$text = str_replace('1.', '1', $text);
-$text = str_replace('2.', '2', $text);
-$text = str_replace('3.', '3', $text);
-
-echo $text;</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>1</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>2FABBBE3-DB29-41C0-96FE-AD9803D728F5</string>
-			<key>version</key>
-			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -1001,14 +601,14 @@ Available Options are:
 		<key>03B6902D-C416-46A5-A5CD-7390CF4C4A68</key>
 		<dict>
 			<key>xpos</key>
-			<integer>620</integer>
+			<integer>395</integer>
 			<key>ypos</key>
 			<integer>180</integer>
 		</dict>
 		<key>235B00CD-4BF2-48E2-9DD9-F7F6A80C564D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>965</integer>
+			<integer>575</integer>
 			<key>ypos</key>
 			<integer>325</integer>
 		</dict>
@@ -1026,17 +626,10 @@ Available Options are:
 			<key>ypos</key>
 			<integer>470</integer>
 		</dict>
-		<key>2FABBBE3-DB29-41C0-96FE-AD9803D728F5</key>
-		<dict>
-			<key>xpos</key>
-			<integer>795</integer>
-			<key>ypos</key>
-			<integer>620</integer>
-		</dict>
 		<key>34A9FDEF-B185-4DED-AD16-21396F2FDE86</key>
 		<dict>
 			<key>xpos</key>
-			<integer>620</integer>
+			<integer>395</integer>
 			<key>ypos</key>
 			<integer>470</integer>
 		</dict>
@@ -1054,101 +647,52 @@ Available Options are:
 			<key>ypos</key>
 			<integer>325</integer>
 		</dict>
-		<key>3B249F66-827C-481B-8BE2-1874876D0A4C</key>
-		<dict>
-			<key>xpos</key>
-			<integer>795</integer>
-			<key>ypos</key>
-			<integer>325</integer>
-		</dict>
 		<key>4DB71018-7264-4587-B73C-144092508637</key>
 		<dict>
 			<key>xpos</key>
-			<integer>965</integer>
-			<key>ypos</key>
-			<integer>470</integer>
-		</dict>
-		<key>52EF8D46-1DFE-49F0-A5BB-3310D97E37D3</key>
-		<dict>
-			<key>xpos</key>
-			<integer>215</integer>
+			<integer>575</integer>
 			<key>ypos</key>
 			<integer>470</integer>
 		</dict>
 		<key>6A81A9D7-EE66-42C8-91E2-EFBA0BBFE5E3</key>
 		<dict>
 			<key>xpos</key>
-			<integer>385</integer>
-			<key>ypos</key>
-			<integer>180</integer>
-		</dict>
-		<key>75CCB7BF-F40C-4E4C-89C4-81CFDE0B0258</key>
-		<dict>
-			<key>xpos</key>
-			<integer>795</integer>
-			<key>ypos</key>
-			<integer>40</integer>
-		</dict>
-		<key>7ED5B7E3-9DB9-4DC4-8F24-D11F7EE5276F</key>
-		<dict>
-			<key>xpos</key>
 			<integer>215</integer>
 			<key>ypos</key>
-			<integer>40</integer>
-		</dict>
-		<key>8256FE3A-0C8E-401E-AC7E-0EC9E9894F9B</key>
-		<dict>
-			<key>xpos</key>
-			<integer>795</integer>
-			<key>ypos</key>
-			<integer>470</integer>
+			<integer>180</integer>
 		</dict>
 		<key>8CA8C6A2-B007-400E-8A22-46B2A29CA896</key>
 		<dict>
 			<key>xpos</key>
-			<integer>385</integer>
+			<integer>215</integer>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
 		<key>8DDAF34F-9B44-42A8-A115-3EF0ECC37054</key>
 		<dict>
 			<key>xpos</key>
-			<integer>965</integer>
+			<integer>575</integer>
 			<key>ypos</key>
 			<integer>40</integer>
-		</dict>
-		<key>9A562FEC-BC29-4E37-B2BE-AFCF33C0C0B0</key>
-		<dict>
-			<key>xpos</key>
-			<integer>215</integer>
-			<key>ypos</key>
-			<integer>180</integer>
-		</dict>
-		<key>A0227B8F-3769-4E97-BC49-8F3CA94E5BEA</key>
-		<dict>
-			<key>xpos</key>
-			<integer>795</integer>
-			<key>ypos</key>
-			<integer>180</integer>
 		</dict>
 		<key>A4A14392-A685-443E-97DD-16C6FE1A3ECF</key>
 		<dict>
 			<key>xpos</key>
-			<integer>965</integer>
+			<integer>575</integer>
 			<key>ypos</key>
-			<integer>620</integer>
+			<integer>610</integer>
 		</dict>
 		<key>ACE24891-94B3-4649-B445-5FAE148D4B92</key>
 		<dict>
 			<key>xpos</key>
-			<integer>965</integer>
+			<integer>575</integer>
 			<key>ypos</key>
 			<integer>180</integer>
 		</dict>
 		<key>B53392D1-09EF-47D0-9E23-568940E075DD</key>
 		<dict>
 			<key>xpos</key>
-			<integer>620</integer>
+			<integer>395</integer>
 			<key>ypos</key>
 			<integer>325</integer>
 		</dict>
@@ -1162,32 +706,25 @@ Available Options are:
 		<key>D861D583-C1CD-4607-8A04-448FB235934F</key>
 		<dict>
 			<key>xpos</key>
-			<integer>620</integer>
+			<integer>395</integer>
 			<key>ypos</key>
 			<integer>40</integer>
 		</dict>
 		<key>DE2D49AF-4B75-4698-8D8A-B1142E516AE9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>620</integer>
+			<integer>395</integer>
 			<key>ypos</key>
-			<integer>620</integer>
+			<integer>610</integer>
 		</dict>
 		<key>E4D740CB-1DB1-4123-A863-1952A43CCFD8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>385</integer>
+			<integer>215</integer>
 			<key>ypos</key>
 			<integer>470</integer>
 		</dict>
 		<key>EF41B0DB-C239-413C-8768-788358718962</key>
-		<dict>
-			<key>xpos</key>
-			<integer>385</integer>
-			<key>ypos</key>
-			<integer>325</integer>
-		</dict>
-		<key>F8886A21-C8BC-4EBE-B67F-696DC090AB18</key>
 		<dict>
 			<key>xpos</key>
 			<integer>215</integer>
@@ -1200,8 +737,10 @@ Available Options are:
 		<key>PreferredBible</key>
 		<string>NLT</string>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
-	<string>0.6</string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://vincemitchell.me</string>
 </dict>
