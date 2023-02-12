@@ -4,7 +4,7 @@
   "description": "A quick little workflow to open verses in Alfred.",
   "main": "search.js",
   "dependencies": {
-    "alfy": "^0.12.1",
+    "alfy": "^1.1.0",
     "sqlite3": "^5.0.2"
   },
   "devDependencies": {},
