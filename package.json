@@ -5,7 +5,7 @@
   "main": "search.js",
   "dependencies": {
     "alfy": "^0.12.1",
-    "sqlite3": "^5.0.2"
+    "sqlite3": "^5.1.2"
   },
   "devDependencies": {},
   "scripts": {},
